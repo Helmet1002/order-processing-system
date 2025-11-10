@@ -1,0 +1,1 @@
+package com.sidd.inventory.inventory_service;
